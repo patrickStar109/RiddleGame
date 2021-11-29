@@ -1,5 +1,7 @@
 # RiddleGame
-Fun riddle game :)
+Fun riddle game :) 
+
+Made in C#
 
 
 
